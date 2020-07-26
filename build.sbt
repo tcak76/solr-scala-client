@@ -2,9 +2,9 @@ name := "solr-scala-client"
 
 organization := "com.github.takezoe"
 
-version := "0.0.16-SNAPSHOT"
+version := "0.0.17-SNAPSHOT"
 
-scalaVersion := "2.12.1"
+scalaVersion := "2.11.1"
 
 scalacOptions += "-feature"
 
